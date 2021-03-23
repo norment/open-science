@@ -1,0 +1,1 @@
+# Summary statistics for thalamus genetics paper by Elvsåshagen et al., 2021
