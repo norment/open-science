@@ -1,1 +1,3 @@
-# Summary statistics for thalamus genetics paper by Elvsåshagen et al., 2021
+# GWAS summary statistics for the thalamus and its nuclei
+Corresponding paper:
+Elvsåshagen et al., in print 2021, Nature Communications 
