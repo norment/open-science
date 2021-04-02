@@ -1,0 +1,10 @@
+diagnosis	diagnosis_new
+ANX	ANX
+MDD	MDD
+SCZ	SCZ
+BIP	BD
+PTSD	PTSD
+ADHD	ADHD
+ASD	ASD
+EDU	Educational attainment
+COG	Intelligence

@@ -1,0 +1,14 @@
+component	comp_def	trans
+IC1	Sexual abuse	-1
+IC2	Psychosis	-1
+IC3	Anxiety/depression/mental distress	1
+IC4	Diagnosed with life-threatening illness	1
+IC5	Social instability	-1
+IC6	Traumatic experiences	1
+IC7	Stress last month	1
+IC8	Felt loved	1
+IC9	Self-harm	-1
+IC10	General happiness	-1
+IC11	Addiction/mania	-1
+IC12	Emotional abuse	-1
+IC13	Alcohol abuse	1

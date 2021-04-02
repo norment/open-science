@@ -1,0 +1,10 @@
+GWAS	diagnosis	component	                                                                                                  p1                                                                                                                 p2   rg      se      z       p  h2_obs  h2_obs_se  h2_int  h2_int_se  gcov_int  gcov_int_se
+ANGST_ANX_2016	ANX	IC2	 /sumstats/ANGST_ANX_2016_munged.sumstats.gz  /sumstats/GWAS_IC2_dich_munged.sumstats.gz  0.5  0.2798  1.787  0.0739  0.0149     0.0047  1.0082     0.0082    -0.002       0.0054
+CLOZUK_SCZ_2018	SCZ	IC2	 /sumstats/CLOZUK_SCZ_2018_munged.sumstats.gz  /sumstats/GWAS_IC2_dich_munged.sumstats.gz  0.2945  0.0711  4.1442  3.4097e-05  0.0134     0.0044  1.0082     0.0068    0.0054       0.0057
+CTG_COG_2018	COG	IC2	 /sumstats/CTG_COG_2018_munged.sumstats.gz  /sumstats/GWAS_IC2_dich_munged.sumstats.gz  0.0854  0.0601  1.4206  0.1554  0.0147     0.0041  1.0049     0.0063    -0.005       0.0053
+PGC_ADHD_2017	ADHD	IC2	 /sumstats/PGC_ADHD_2017_munged.sumstats.gz  /sumstats/GWAS_IC2_dich_munged.sumstats.gz  0.1896  0.093  2.0393  0.0414  0.0149     0.0046   1.004      0.008    0.0068       0.0066
+PGC_ASD_2017	ASD	IC2	 /sumstats/PGC_ASD_2017_munged.sumstats.gz  /sumstats/GWAS_IC2_dich_munged.sumstats.gz  0.4387  0.1192  3.6788  0.0002  0.0144     0.0046  1.0053     0.0085   -0.0024       0.0061
+PGC_BIP_2016	BIP	IC2	 /sumstats/PGC_BIP_2016_munged.sumstats.gz  /sumstats/GWAS_IC2_dich_munged.sumstats.gz  0.1656  0.0774  2.1388  0.0324  0.0147     0.0046  1.0048     0.0075    0.0103       0.0057
+PGC_MDD_2018	MDD	IC2	 /sumstats/PGC_MDD_2018_munged.sumstats.gz  /sumstats/GWAS_IC2_dich_munged.sumstats.gz  0.4989  0.12  4.1576  3.2165e-05  0.0142     0.0044  1.0058     0.0077   -0.0043       0.0058
+PGC_PTSD_2017	PTSD	IC2	 /sumstats/PGC_PTSD_2017_munged.sumstats.gz  /sumstats/GWAS_IC2_dich_munged.sumstats.gz -0.159  0.2661 -0.5976  0.5501  0.0133     0.0042  1.0082     0.0066    0.0118       0.0045
+SSGAC_EDU_2018	EDU	IC2	 /sumstats/SSGAC_EDU_2018_munged.sumstats.gz  /sumstats/GWAS_IC2_dich_munged.sumstats.gz -0.0134  0.0519 -0.2587  0.7959  0.0137     0.0041  1.0077     0.0068    0.0068       0.0061
