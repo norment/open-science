@@ -1,7 +1,7 @@
 # Scripts and summary statistics for Roelfs _et al._'s ICA genetics paper
 
 ### Corresponding paper
-Roelfs et al., _Phenotypically independent profiles relevant to mental health are genetically correlated_, Translational Psychiatry, 2021, doi: [10.1038/s41398-021-01313-x)](https://doi.org/10.1038/s41398-021-01313-x)
+Roelfs et al., _Phenotypically independent profiles relevant to mental health are genetically correlated_, Translational Psychiatry, 2021, doi: [10.1038/s41398-021-01313-x](https://doi.org/10.1038/s41398-021-01313-x)
 
 ### Summary statistics for the independent components
 
