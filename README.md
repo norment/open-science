@@ -12,7 +12,7 @@ svn export https://github.com/norment/open-science/trunk/<folder>
 
 E.g. `svn export https://github.com/norment/open-science/trunk/2021_Roelfs_TranslPsych_MentalHealth_ICA_GWAS` will download the entire folder with data and code related to that publication only. 
 
-Currently, the `svn` method **doesn't** automatically download the files in the LFS-storage. When there's a command line method to download LFS files, it'll be added here. Until then, you can download the files in LFS manually via the website.
+Currently, the `svn` method **does not** automatically download the files in the LFS-storage. When there's a command line method to download LFS files, it'll be added here. Until then, you can download the files in LFS manually via the website.
 
 ### Uploading data
 
